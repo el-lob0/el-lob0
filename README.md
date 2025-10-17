@@ -2,7 +2,7 @@ New account of @anasdev2005
 
 # :dizzy: About Me:
 <p align="center">
-♞ Aspiring Software Eng.<br>♞ Rust <br>♞ Python <br>♞ Uni level C++ <br>♞ I use Arch btw, on <a href="https://discord.com/users/714150663147356212">Discord</a>. <br>
+♞ Aspiring Software Eng.<br>♞ Rust <br>♞ Python <br>♞ Uni level C/Cpp <br>♞ I use Arch btw, on <a href="https://discord.com/users/714150663147356212">Discord</a>. <br>
 </p>
 
 ---
