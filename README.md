@@ -2,7 +2,7 @@ New account of @anasdev2005
 
 # :dizzy: About Me:
 <p align="center">
-♞ probably Backend<br>♞         Rust <br>♞      Python <br>♞ OCAML and C/Cpp <br>♞ I use Arch btw, <a href="https://discord.com/">el_lobo_v0.0.2 on Discord</a>. <br>
+♞ probably Backend<br>♞         Rust <br>♞      Python <br>♞ OCAML and C <br>♞ I use Arch btw, <a href="https://discord.com/">el_lobo_v0.0.2 on Discord</a>. <br>
 </p>
 
 ---
@@ -14,7 +14,7 @@ New account of @anasdev2005
     <img src="https://img.shields.io/badge/Language-Rust-informational?style=for-the-badge&logoColor=white&color=blue" />
     <img src="https://img.shields.io/badge/Language-Python-informational?style=for-the-badge&logoColor=white&color=blue" />
     <img src="https://img.shields.io/badge/Language-OCAML-informational?style=for-the-badge&logoColor=white&color=blue" />
-    <img src="https://img.shields.io/badge/Language-C/C++-informational?style=for-the-badge&logoColor=white&color=blue" />
+    <img src="https://img.shields.io/badge/Language-C-informational?style=for-the-badge&logoColor=white&color=blue" />
 </p>
  
 
