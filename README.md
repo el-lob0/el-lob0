@@ -29,7 +29,8 @@ New account of @anasdev2005
 
 <p>
     
-![langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme=gotham&exclude=cmake,lua,shell)
+![langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=el-lob0&theme=gotham&exclude=cmake,lua,shell)
+![langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=el-lob0&theme=gotham&exclude=cmake,lua,shell)
 ![stats](https://github-readme-stats.vercel.app/api?username=el-lob0&theme=gotham&show_icons=true&hide_border=true&count_private=true)    
 </p>
 
