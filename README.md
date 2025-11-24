@@ -2,7 +2,7 @@ New account of @anasdev2005
 
 # :dizzy: About Me:
 <p align="center">
-♞ probably Backend<br>♞         Rust <br>♞      Python <br>♞ OCAML and C <br>♞ I use Arch btw, <a href="https://discord.com/">el_lobo_v0.0.2 on Discord</a>. <br>
+♞ aspiring systems dev/eng<br>♞         Rust <br>♞      Python <br>♞ OCAML and C <br>♞ I use Arch btw, <a href="https://discord.com/">el_lobo_v0.0.2 on Discord</a>. <br>
 </p>
 
 ---
