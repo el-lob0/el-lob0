@@ -2,7 +2,7 @@ New account of @anasdev2005
 
 # :dizzy: About Me:
 <p align="center">
-♞ aspiring systems dev/eng<br>♞         Rust <br>♞      Python <br>♞ OCAML and C <br>♞ I use Arch btw, <a href="https://discord.com/">el_lobo_v0.0.2 on Discord</a>. <br>
+♞ aspiring systems dev/eng<br>♞         Versatile programmer <br>♞ Working on a GUI library called haykal <br>♞ I use Arch btw, <a href="https://discord.com/">el_lobo_v0.0.2 on Discord</a>. <br>
 </p>
 
 ---
@@ -15,6 +15,7 @@ New account of @anasdev2005
     <img src="https://img.shields.io/badge/Language-Python-informational?style=for-the-badge&logoColor=white&color=blue" />
     <img src="https://img.shields.io/badge/Language-OCAML-informational?style=for-the-badge&logoColor=white&color=blue" />
     <img src="https://img.shields.io/badge/Language-C-informational?style=for-the-badge&logoColor=white&color=blue" />
+<img src="https://img.shields.io/badge/Language-Odin-informational?style=for-the-badge&logoColor=white&color=blue" />
 </p>
  
 
