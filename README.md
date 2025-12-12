@@ -41,6 +41,8 @@ Realistic:
 * cef-(chromium)-based browser that emulates vim motions
 * finish haykal, of course
 * appimage app launcher/app store
+* a program that modifies frame by frame resolution to make artificial zoom not lose quality
+(aka lower the resolution when zoomed out and then increase it as it zooms in)
   
 
 Unrealistic:  
