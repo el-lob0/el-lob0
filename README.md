@@ -23,10 +23,7 @@ New account of @anasdev2005
 
 ## :bar_chart: Geronimooooo
 
-<p>
 
-![profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=el-lob0&theme=gotham)
-</p>
 
 <p>
     
