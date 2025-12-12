@@ -31,10 +31,6 @@ New account of @anasdev2005
 ![langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=el-lob0&theme=gotham&exclude=cmake,lua,shell)
 </p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=el-lob0&theme=gotham&hide_border=false)
-
-![stuff](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=el-lob0&theme=gotham)
-
 
 <br/>
 
