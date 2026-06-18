@@ -34,18 +34,4 @@ New account of @anasdev2005
 
 <br/>
 
-### My programming fantasies/projects
-  
-Realistic:  
-* a tui game engine with odin using nib (and eventually a game)
-* cef-(chromium)-based browser that emulates vim motions
-* finish haykal, of course
-* appimage app launcher/app store
-* a program that modifies frame by frame resolution to make artificial zoom not lose quality
-(aka lower the resolution when zoomed out and then increase it as it zooms in)
-  
-
-Unrealistic:  
-* a transpiler from web stack to a systems lang gui (for a web engine)
-* some 3D renderer that uses cpu but is lightweight
 
